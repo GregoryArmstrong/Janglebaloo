@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turingschool-examples/electron-react-starter-kid.git"
+    "url": "git+https://github.com/GregoryArmstrong/Janglebaloo"
   },
   "keywords": [
     "electron",
     "react"
   ],
-  "author": "Steve Kinney",
+  "author": "Greg Armstrong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/turingschool-examples/electron-react-starter-kid/issues"
+    "url": "https://github.com/GregoryArmstrong/Janglebaloo/issues"
   },
   "homepage": "https://github.com/turingschool-examples/electron-react-starter-kid#readme",
   "devDependencies": {
