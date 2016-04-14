@@ -33,6 +33,16 @@ h3, h4 {
 
 textarea, input, div, button { outline: none; }
 
+button {
+  background-color: #2B0806;
+  color: #DCD0A0;
+  width: 18vw;
+  height: 6vh;
+  font-size: 20px;
+  margin: 2px;
+  border-radius: 5px 25px 5px 25px;
+}
+
 .controls {
   background-color: #2B0806;
   padding: 1em;
@@ -99,16 +109,6 @@ textarea, input, div, button { outline: none; }
   text-align: center;
   font-size: 30px;
   opacity: 0;
-}
-
-button {
-  background-color: #2B0806;
-  color: #DCD0A0;
-  width: 18vw;
-  height: 6vh;
-  font-size: 20px;
-  margin: 2px;
-  border-radius: 5px 25px 5px 25px;
 }
 
 .welcome-message {
