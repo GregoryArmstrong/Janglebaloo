@@ -15,3 +15,11 @@ Then fire up the application.
 ```
 npm start
 ```
+
+#### Creator: Greg Armstrong
+
+<img src="https://avatars2.githubusercontent.com/u/13356027?v=3&s=400" alt="Greg Armstrong" width=150>
+
+[Github](https://github.com/GregoryArmstrong) // [Email](MrGregTArmstrong@gmail.com)
+
+"I’m an endlessly inquisitive full-stack developer that thrives on tacking new problems and building long-lasting relationships with those I collaborate with. My previous experiences in spinal cord research and surgery have endowed me with a critical eye and steady hand for crafting adroit, performant code. I am eager to join a team doing meaningful work which will push me to continuously improve my abilities through mentorship while also exposing me to new technologies. Lets improve the world together."
